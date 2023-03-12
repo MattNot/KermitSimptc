@@ -1,6 +1,6 @@
 import ast, os, pickle
 from stanfordcorenlp import StanfordCoreNLP
-from kerMIT.dtk import DT
+from kerMIT.structenc.dte import DTE as DT
 from kerMIT.tree import Tree
 from kerMIT.operation import fast_shuffled_convolution
 
